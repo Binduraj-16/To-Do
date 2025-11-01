@@ -78,10 +78,10 @@ const Index = () => {
             <CheckCircle2 className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-2">
-            TaskFlow
+            BinTasks
           </h1>
           <p className="text-muted-foreground">
-            Your personal task manager to stay organized
+            My personal task manager to stay organized
           </p>
         </div>
 
